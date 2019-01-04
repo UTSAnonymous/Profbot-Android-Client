@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "E:\\Internship\\ProfBot New\\Profbot-Android-Client\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-land\\values-land.xml",
+            "outputFile": "E:\\Internship\\Profbot\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-land\\values-land.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Nicholas\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.0.aar\\4b43265d30e97167ef40cfbcefe2f21b\\res\\values-land\\values-land.xml",

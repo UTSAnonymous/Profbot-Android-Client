@@ -43,21 +43,21 @@ public final class R {
         public static final int compat_button_padding_horizontal_material = 0x7f07004d;
         public static final int compat_button_padding_vertical_material = 0x7f07004e;
         public static final int compat_control_corner_material = 0x7f07004f;
-        public static final int notification_action_icon_size = 0x7f070086;
-        public static final int notification_action_text_size = 0x7f070087;
-        public static final int notification_big_circle_margin = 0x7f070088;
-        public static final int notification_content_margin_start = 0x7f070089;
-        public static final int notification_large_icon_height = 0x7f07008a;
-        public static final int notification_large_icon_width = 0x7f07008b;
-        public static final int notification_main_column_padding_top = 0x7f07008c;
-        public static final int notification_media_narrow_margin = 0x7f07008d;
-        public static final int notification_right_icon_size = 0x7f07008e;
-        public static final int notification_right_side_padding_top = 0x7f07008f;
-        public static final int notification_small_icon_background_padding = 0x7f070090;
-        public static final int notification_small_icon_size_as_large = 0x7f070091;
-        public static final int notification_subtext_size = 0x7f070092;
-        public static final int notification_top_pad = 0x7f070093;
-        public static final int notification_top_pad_large_text = 0x7f070094;
+        public static final int notification_action_icon_size = 0x7f070088;
+        public static final int notification_action_text_size = 0x7f070089;
+        public static final int notification_big_circle_margin = 0x7f07008a;
+        public static final int notification_content_margin_start = 0x7f07008b;
+        public static final int notification_large_icon_height = 0x7f07008c;
+        public static final int notification_large_icon_width = 0x7f07008d;
+        public static final int notification_main_column_padding_top = 0x7f07008e;
+        public static final int notification_media_narrow_margin = 0x7f07008f;
+        public static final int notification_right_icon_size = 0x7f070090;
+        public static final int notification_right_side_padding_top = 0x7f070091;
+        public static final int notification_small_icon_background_padding = 0x7f070092;
+        public static final int notification_small_icon_size_as_large = 0x7f070093;
+        public static final int notification_subtext_size = 0x7f070094;
+        public static final int notification_top_pad = 0x7f070095;
+        public static final int notification_top_pad_large_text = 0x7f070096;
     }
     public static final class drawable {
         private drawable() {}

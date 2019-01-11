@@ -80,8 +80,8 @@ public class PeerConnectionClient {
     private static final String AUDIO_NOISE_SUPPRESSION_CONSTRAINT = "googNoiseSuppression";
     private static final String AUDIO_LEVEL_CONTROL_CONSTRAINT = "levelControl";
     private static final String DTLS_SRTP_KEY_AGREEMENT_CONSTRAINT = "DtlsSrtpKeyAgreement";
-    private static final int HD_VIDEO_WIDTH = 1280;
-    private static final int HD_VIDEO_HEIGHT = 720;
+    private static final int HD_VIDEO_WIDTH = 640;//1280
+    private static final int HD_VIDEO_HEIGHT = 480;//720
     private static final int BPS_IN_KBPS = 1000;
 
     private static final PeerConnectionClient instance = new PeerConnectionClient();

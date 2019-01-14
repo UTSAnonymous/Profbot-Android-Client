@@ -619,7 +619,7 @@ public class CallActivity extends AppCompatActivity
                 case android.view.MotionEvent.ACTION_DOWN:
                     if (mHandler != null) return true;
                     mHandler = new Handler();
-                    mHandler.postDelayed(mAction, 100);
+                    mHandler.postDelayed(mAction, 200);
                     break;
                 case android.view.MotionEvent.ACTION_UP:
                     if (mHandler == null) return true;
@@ -650,7 +650,7 @@ public class CallActivity extends AppCompatActivity
                         break;
                 }
                 System.out.println("Performing action...");
-                mHandler.postDelayed(this, 100);
+                mHandler.postDelayed(this, 200);
             }
         };
     }

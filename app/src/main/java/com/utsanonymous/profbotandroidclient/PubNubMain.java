@@ -61,7 +61,7 @@ public class PubNubMain implements Serializable {
             @Override
             public void status(PubNub pubnub, PNStatus status) {
                 if (status.getCategory() == PNStatusCategory.PNConnectedCategory){
-                    //Toast.makeText(context,"yay",Toast.LENGTH_SHORT).show();
+                    Toast.makeText(context,"yay",Toast.LENGTH_SHORT).show();
                 }
 
                 Log.i("subscribing callbacks",status.getOperation().toString());
